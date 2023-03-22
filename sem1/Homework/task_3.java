@@ -30,7 +30,7 @@ public class task_3 {
 
             case "/":
                 if(num2 == 0){
-                    System.out.println("Ошибка, на 0 делить нельзя");
+                    System.out.println("Ошибка, на 0 делить нельзя, измените число");
                     return;
                 }
                 result = num1 / num2;
